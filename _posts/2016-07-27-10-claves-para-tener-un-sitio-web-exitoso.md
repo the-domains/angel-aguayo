@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-27T05:37:47.365Z'
-dateModified: '2016-07-27T05:37:14.360Z'
+datePublished: '2016-07-27T05:47:27.657Z'
+dateModified: '2016-07-27T05:47:09.681Z'
 title: 10 Claves para tener un sitio web exitoso
 author: []
 via: {}
+sourcePath: _posts/2016-07-27-10-claves-para-tener-un-sitio-web-exitoso.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-07-27-10-claves-para-tener-un-sitio-web-exitoso.md
+starred: true
 url: 10-claves-para-tener-un-sitio-web-exitoso/index.html
 _type: Article
 
