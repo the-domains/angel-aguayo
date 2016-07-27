@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Angel Aguayo]]></title>
-        <description><![CDATA[Angel Aguayo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Diseños WEB y Diseño Grafico Angel Aguayo]]></title>
+        <description><![CDATA[Diseños WEB y Diseño Grafico Angel Aguayo]]></description>
+        <link>https://thegrid.ai/angel-aguayo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 05:38:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 05:48:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/angel-aguayo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Claves para tener un sitio web exitoso]]></title>
             <description><![CDATA[<article><h1>10 Claves para tener un sitio web exitoso</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee2b9c62a074e6d22c153f48ee46d7b0/croprotate.jpg?cropheight=442&cropwidth=1045&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb2bbc5c1-ed36-4044-b5a9-7332193309f7.jpg&x=0&y=0"></article>]]></description>
-            <link>undefined10-claves-para-tener-un-sitio-web-exitoso/index.html</link>
+            <link>https://thegrid.ai/angel-aguayo/10-claves-para-tener-un-sitio-web-exitoso/index.html</link>
             <guid isPermaLink="false">8814db3c-f0ea-45a7-8016-a473f47b7c9e</guid>
-            <pubDate>Wed, 27 Jul 2016 05:37:47 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2016 05:47:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
